@@ -2,17 +2,16 @@
 
 Este proyecto consiste en la construcción de un **dashboard interactivo** sobre información poblacional global, desarrollado como parte del curso de Power BI con *El Tío Tech*.
 
-## 🗂️ Archivos del Proyecto
-- `reports/dashboard_poblacional.pbix` → Archivo de Power BI con el dashboard final.
-- `data/` → Datos utilizados en el análisis.
-- `images/preview_dashboard.png` → Capturas del dashboard en acción.
+## 🗂️ Estructura del Proyecto
+- 📁 [`data/`](data/) → Contiene los datos utilizados en el análisis.
+- 📁 [`reports/`](reports/) → Contiene el archivo `.pbix` con el dashboard en Power BI.
+- 📁 [`images/`](images/) → Capturas de pantalla del dashboard en acción.
 
 ## 📥 Fuente de Datos
-El dataset fue obtenido de una pagina de internet, dejo el enlace aca:.  
+El dataset fue obtenido de una pagina de internet, dejo el link aca:  
 📌 (https://eltiotech.com/curso-completo-de-power-bi/). En la seccion modulo 3 - Descargar material
 
 ## 🛠️ Técnicas y Aprendizajes
-Durante este proyecto, trabajé en:
 ✔ **Conexión y relación de datos** entre múltiples tablas 🔗  
 ✔ **Visualizaciones avanzadas** como **Tablas, Matrices, TreeMap, Mapas y Gráficos de Dispersión** 📊  
 ✔ **Segmentación y creación de columnas condicionales** para mejorar la exploración de datos 📈  
@@ -29,7 +28,5 @@ Durante este proyecto, trabajé en:
 - **Excel** 📑 → Manipulación de los datos.
 - **DAX** 🔢 → Cálculo de métricas avanzadas.
 - **Power Query** 🔄 → Transformación y limpieza de datos.
-
----
 
 📢 **¿Tienes feedback o sugerencias?** ¡Me encantaría conectar con más personas apasionadas por el análisis de datos! 🚀
