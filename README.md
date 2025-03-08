@@ -4,12 +4,12 @@ Este proyecto consiste en la construcción de un **dashboard interactivo** sobre
 
 ## 🗂️ Archivos del Proyecto
 - `reports/dashboard_poblacional.pbix` → Archivo de Power BI con el dashboard final.
-- `data/dataset_poblacional.xlsx` → Datos utilizados en el análisis.
+- `data/` → Datos utilizados en el análisis.
 - `images/preview_dashboard.png` → Capturas del dashboard en acción.
 
 ## 📥 Fuente de Datos
-El dataset fue obtenido de **fuentes públicas de estadísticas poblacionales**.  
-📌 [Enlace al dataset (si aplica)](https://www.kaggle.com/) *(reemplaza con el link real si tienes uno)*.
+El dataset fue obtenido de una pagina de internet, dejo el enlace aca:.  
+📌 (https://eltiotech.com/curso-completo-de-power-bi/)[modulo3] *(reemplaza con el link real si tienes uno)*.
 
 ## 🛠️ Técnicas y Aprendizajes
 Durante este proyecto, trabajé en:
