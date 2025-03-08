@@ -9,7 +9,7 @@ Este proyecto consiste en la construcción de un **dashboard interactivo** sobre
 
 ## 📥 Fuente de Datos
 El dataset fue obtenido de una pagina de internet, dejo el enlace aca:.  
-📌 (https://eltiotech.com/curso-completo-de-power-bi/)  [modulo3] *(reemplaza con el link real si tienes uno)*.
+📌 (https://eltiotech.com/curso-completo-de-power-bi/). En la seccion modulo 3 - Descargar material
 
 ## 🛠️ Técnicas y Aprendizajes
 Durante este proyecto, trabajé en:
